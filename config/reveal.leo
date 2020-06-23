@@ -66,6 +66,7 @@ Created by 40723138
 <t tx="leo.20180902120523.12"># 每週回顧
 
 * W1~W6
+
 利用 cmsimde建立靜態網誌
 
 持續進步
@@ -84,7 +85,6 @@ Created by 40723138
 </t>
 <t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -93,9 +93,9 @@ Created by 40723138
 
 						
 </t>
-<t tx="leo.20180902120523.15">#每週回顧
+<t tx="leo.20180902120523.15"># 每週回顧
 
-*W7~W10
+* W7~W10
 進行線上上課並在上課抽點進行直播
 
 利用coppelia進行模擬機械
@@ -105,18 +105,16 @@ Created by 40723138
 </t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-
 						
 </t>
-<t tx="leo.20180902120523.17">#每週回顧
+<t tx="leo.20180902120523.17"># 每週回顧
 
-W12~W16
+* W12~W16
 
 上課進行分組,進行小型的協同合併
 
