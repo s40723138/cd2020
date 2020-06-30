@@ -21,16 +21,29 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>W1</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20200630175444.1"><vh>直播</vh>
+<v t="leo.20200630175444.2"><vh>直播內容</vh></v>
 </v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
+<v t="leo.20200630180519.1"><vh>PYTHON3.8.2</vh>
+<v t="leo.20200630180519.2"><vh>3.8.2</vh></v>
 </v>
+<v t="leo.20200630174519.1"><vh>W7</vh>
+<v t="leo.20200630174519.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200630181003.1"><vh>AS2</vh>
+<v t="leo.20200630181003.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200630180338.1"><vh>RNG直播</vh>
+<v t="leo.20200630180338.2"><vh>隨機直播</vh></v>
+</v>
+<v t="leo.20200630174618.1"><vh>W12</vh>
+<v t="leo.20200630174618.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200630181229.1"><vh>AS3</vh>
+<v t="leo.20200630181229.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -44,7 +57,7 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## CD2020協同產品設計
 
-### 期末報告
+### 期末簡報
 
 &lt;small&gt;
 Created by 40723138
@@ -63,65 +76,21 @@ Created by 40723138
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 每週回顧
+<t tx="leo.20180902120523.12">### 每週回顧
 
-* W1~W6
+## W1~W6
 
-利用 cmsimde建立靜態網誌
+* 利用 cmsimde建立靜態網誌
 
-持續進步
+* 持續進步
 
-程式進行網頁服務
+* 程式進行網頁服務
 
-使用OBS portable進行串流
+* 使用OBS portable進行串流
 
-使用Google Hangouts Meet線上上課
+* 使用Google Hangouts Meet線上上課
 
-加入視訊畫面以方便了解發言人</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># 每週回顧
-
-* W7~W10
-進行線上上課並在上課抽點進行直播
-
-利用coppelia進行模擬機械
-
-並加入已經寫好的程式達到控制
-
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.17"># 每週回顧
-
-* W12~W16
-
-上課進行分組,進行小型的協同合併
-
-與進行在IPv6環境下開啟虛擬主機
-
-並可以開啟網也使組員可以上傳檔案
-</t>
+* 加入視訊畫面以方便了解發言人</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -292,5 +261,103 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200630174519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630174519.2">### W7~W10
+* 進行線上上課並在上課抽點進行直播
+
+* Assignment 2</t>
+<t tx="leo.20200630174618.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630174618.2">### W12~W16
+
+* 上課進行分組,進行小型的協同合併
+
+* 與進行在IPv6環境下開啟虛擬主機
+
+* 並可以開啟網也使組員可以上傳檔案
+
+* 利用coppelia進行模擬機械
+
+並加入已經寫好的程式達到控制</t>
+<t tx="leo.20200630175444.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630175444.2">### 直播會議
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020ag4/content/%E7%9B%B4%E6%92%AD%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84.html" width="880"&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20200630180338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180338.2">### 隨機直播
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020ag4/content/%E9%9A%A8%E6%A9%9F%E7%9B%B4%E6%92%AD.html" width="880"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200630180519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630180519.2">### 直播會議
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020ag4/content/%E5%8F%AF%E7%A7%BB%E6%A4%8D%E7%B7%A8%E7%A8%8B%E7%B3%BB%E7%B5%B1%E5%89%B5%E5%BB%BA.html" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630181003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630181003.2">### Assignment 2
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020ag4/content/%E5%88%86%E7%B5%842.html" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200630181229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630181229.2">### Assignment 3
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020/content/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F%E8%A8%AD%E5%AE%9A.html" width="880"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
