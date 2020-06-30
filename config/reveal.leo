@@ -45,6 +45,9 @@
 <v t="leo.20200630181229.1"><vh>AS3</vh>
 <v t="leo.20200630181229.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200701000548.1"><vh>AS4</vh>
+<v t="leo.20200701000548.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -289,11 +292,9 @@ vertical: body pane on the botton</t>
 
 * 與進行在IPv6環境下開啟虛擬主機
 
-* 並可以開啟網也使組員可以上傳檔案
+* 並可以開啟網頁使組員可以上傳檔案
 
-* 利用coppelia進行模擬機械
-
-並加入已經寫好的程式達到控制</t>
+* 利用coppelia進行模擬機械並加入已經寫好的程式達到控制</t>
 <t tx="leo.20200630175444.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -332,7 +333,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200630180519.2">### 直播會議
+<t tx="leo.20200630180519.2">### Python3.8.2
 
 &lt;iframe height="600" src="https://s40723138.github.io/cd2020ag4/content/%E5%8F%AF%E7%A7%BB%E6%A4%8D%E7%B7%A8%E7%A8%8B%E7%B3%BB%E7%B5%B1%E5%89%B5%E5%BB%BA.html" width="880"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200630181003.1">&lt;section data-markdown&gt;
@@ -359,5 +360,17 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200630181229.2">### Assignment 3
 
 &lt;iframe height="600" src="https://s40723138.github.io/cd2020/content/%E8%99%9B%E6%93%AC%E4%B8%BB%E6%A9%9F%E8%A8%AD%E5%AE%9A.html" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200701000548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200701000548.2">### CoppeliaSim模擬
+
+&lt;iframe height="600" src="https://s40723138.github.io/cd2020/content/W14~17.html" width="880"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
